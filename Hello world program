@@ -1,0 +1,5 @@
+public class Hello world {
+public satic void main(sting[]args){
+sysrtem .out.print/n("Hello world!")
+}
+}
